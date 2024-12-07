@@ -28,4 +28,4 @@ include_directories(${SDL_GFX_H}) # 添加SDL头文件搜索路径
 set(SDL_GFX_LIB /opt/homebrew/Cellar/sdl2_gfx/1.0.4/lib/libSDL2_gfx-2.0.0.dylib)
 link_libraries(${SDL_GFX_LIB}) # 增加SDL链接库目录
 
-add_executable(REchicken main.cpp atlas.h vector2.h timer.h camera.h animation.h)
+add_executable(REchicken main.cpp atlas.h vector2.h timer.h camera.h animation.h bullet.h chicken.h chicken_fast.h chicken_medium.h chicken_slow.h)
