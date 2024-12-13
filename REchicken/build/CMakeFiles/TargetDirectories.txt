@@ -1,0 +1,3 @@
+/Users/taojingyu/Repo/SDLProject/REchicken/build/CMakeFiles/REchicken.dir
+/Users/taojingyu/Repo/SDLProject/REchicken/build/CMakeFiles/edit_cache.dir
+/Users/taojingyu/Repo/SDLProject/REchicken/build/CMakeFiles/rebuild_cache.dir

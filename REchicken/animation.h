@@ -6,7 +6,7 @@
 #include "camera.h"
 #include "vector2.h"
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 #include <vector>
 #include <functional>

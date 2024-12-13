@@ -4,7 +4,7 @@
 #include "camera.h"
 #include "vector2.h"
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 extern SDL_Texture* tex_bullet;
 

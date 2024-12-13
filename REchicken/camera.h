@@ -4,7 +4,7 @@
 #include "timer.h"
 #include "vector2.h"
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 class Camera {
 public:
