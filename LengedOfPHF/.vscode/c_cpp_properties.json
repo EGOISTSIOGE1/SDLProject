@@ -4,13 +4,13 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/homebrew/Cellar/sdl2/2.30.9/lib/**",
-                "/opt/homebrew/Cellar/sdl2/2.30.9/include/",
-                "/opt/homebrew/Cellar/sdl2_image/2.8.2_2/include/",
-                "/opt/homebrew/Cellar/sdl2_mixer/2.8.0/include/",
-                "/opt/homebrew/Cellar/sdl2_ttf/2.22.0/include/",
+                "/opt/homebrew/Cellar/sdl2/2.32.0/lib/**",
+                "/opt/homebrew/Cellar/sdl2/2.32.0/include/",
+                "/opt/homebrew/Cellar/sdl2_image/2.8.4/include/",
+                "/opt/homebrew/Cellar/sdl2_mixer/2.8.1/include/",
+                "/opt/homebrew/Cellar/sdl2_ttf/2.24.0/include/",
                 "/opt/homebrew/Cellar/sdl2_gfx/1.0.4/include/",
-                "/opt/homebrew/Cellar/sdl2/2.30.9/include/SDL2/"
+                "/opt/homebrew/Cellar/sdl2/2.32.0/include/SDL2/"
             ],
             "defines": [],
             "macFrameworkPath": [
